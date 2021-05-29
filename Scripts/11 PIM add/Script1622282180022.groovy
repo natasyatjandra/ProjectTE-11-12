@@ -37,13 +37,13 @@ WebUI.click(findTestObject('Object Repository/Page_Add/Page_OrangeHRM/b_PIM'))
 
 WebUI.click(findTestObject('Object Repository/Page_Add/Page_OrangeHRM/a_Add Employee'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Add/Page_OrangeHRM/input__firstName'), 'Badut')
+WebUI.setText(findTestObject('Object Repository/Page_Add/Page_OrangeHRM/input__firstName'), firstName)
 
-WebUI.setText(findTestObject('Object Repository/Page_Add/Page_OrangeHRM/input_Middle Name_middleName'), 'Lucu')
+WebUI.setText(findTestObject('Object Repository/Page_Add/Page_OrangeHRM/input_Middle Name_middleName'), middleName)
 
 WebUI.click(findTestObject('Object Repository/Page_Add/Page_OrangeHRM/ol_First Name Middle Name  Last Name'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Add/Page_OrangeHRM/input__lastName'), 'Sekali')
+WebUI.setText(findTestObject('Object Repository/Page_Add/Page_OrangeHRM/input__lastName'), lastName)
 
 WebUI.click(findTestObject('Object Repository/Page_Add/Page_OrangeHRM/input__btnSave'))
 
