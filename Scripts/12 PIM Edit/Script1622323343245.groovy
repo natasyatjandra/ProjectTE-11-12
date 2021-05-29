@@ -39,9 +39,9 @@ WebUI.click(findTestObject('Object Repository/Page_Edit/Page_OrangeHRM/input__bt
 
 WebUI.click(findTestObject('Object Repository/Page_Edit/Page_OrangeHRM/ol_First Name                              _f54f1b'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Edit/Page_OrangeHRM/input_Middle Name_personaltxtEmpMiddleName'), '11111')
+WebUI.setText(findTestObject('Object Repository/Page_Edit/Page_OrangeHRM/input_Middle Name_personaltxtEmpMiddleName'), MiddleName)
 
-WebUI.setText(findTestObject('Object Repository/Page_Edit/Page_OrangeHRM/input__personaltxtEmpFirstName'), 'admin111')
+WebUI.setText(findTestObject('Object Repository/Page_Edit/Page_OrangeHRM/input__personaltxtEmpFirstName'), FirstName)
 
 WebUI.click(findTestObject('Object Repository/Page_Edit/Page_OrangeHRM/input__btnSave'))
 

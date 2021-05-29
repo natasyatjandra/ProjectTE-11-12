@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12 PIM Edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7f4f22f-feca-4ac9-a61e-bb50253d568f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6d4604a9-95d3-453c-8c9e-0aa6f54b6b40</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df505d9c-4e94-4cbd-9763-02f95dde690f</id>
+      <masked>false</masked>
+      <name>MiddleName</name>
+   </variable>
+</TestCaseEntity>
