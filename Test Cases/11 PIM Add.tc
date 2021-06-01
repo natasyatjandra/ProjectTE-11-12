@@ -1,29 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>11 PIM add</name>
+   <name>11 PIM Add</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>96235d7f-e204-4d08-9847-de8a024dc195</testCaseGuid>
+   <testCaseGuid>470d25fd-7731-447b-adaa-3a4f50a85ef0</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>a6b6b5fe-d9e6-4080-9174-c08b6817e2ae</id>
+      <id>e9a6e7c8-615c-4dca-895b-454fa4415c8d</id>
       <masked>false</masked>
       <name>firstName</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>e8d8ce8f-e928-4dd7-9bdc-dfc10e66328e</id>
+      <id>decfbdc3-541c-45bb-b1ed-63a168a5cb41</id>
       <masked>false</masked>
       <name>middleName</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>1918eacc-6a06-4d91-b9ab-d9d56e3e5d41</id>
+      <id>79bed560-dbb8-494f-975e-3110c1cc9945</id>
       <masked>false</masked>
       <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9100d4da-b4a3-4bcc-b5f1-520761683a18</id>
+      <masked>false</masked>
+      <name>fullName</name>
    </variable>
 </TestCaseEntity>

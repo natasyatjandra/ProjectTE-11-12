@@ -39,13 +39,13 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>5b3c7673-474f-4a43-813e-3c957366569b</guid>
+      <guid>610af148-2851-491f-8031-92bf9abe6826</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/11 PIM add</testCaseId>
+      <testCaseId>Test Cases/11 PIM Add</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>3d1d38b1-4614-487e-abc5-dbe5965aff64</id>
+         <id>08fd3bd0-18d8-44e2-9e8a-a2f71796198e</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -53,22 +53,28 @@
          <testDataId>Data Files/Data Test Modul 11</testDataId>
       </testDataLink>
       <variableLink>
-         <testDataLinkId>3d1d38b1-4614-487e-abc5-dbe5965aff64</testDataLinkId>
+         <testDataLinkId>08fd3bd0-18d8-44e2-9e8a-a2f71796198e</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>Nama Depan</value>
-         <variableId>a6b6b5fe-d9e6-4080-9174-c08b6817e2ae</variableId>
+         <variableId>e9a6e7c8-615c-4dca-895b-454fa4415c8d</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>3d1d38b1-4614-487e-abc5-dbe5965aff64</testDataLinkId>
+         <testDataLinkId>08fd3bd0-18d8-44e2-9e8a-a2f71796198e</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>Nama Tengah</value>
-         <variableId>e8d8ce8f-e928-4dd7-9bdc-dfc10e66328e</variableId>
+         <variableId>decfbdc3-541c-45bb-b1ed-63a168a5cb41</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>3d1d38b1-4614-487e-abc5-dbe5965aff64</testDataLinkId>
+         <testDataLinkId>08fd3bd0-18d8-44e2-9e8a-a2f71796198e</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>Nama Belakang</value>
-         <variableId>1918eacc-6a06-4d91-b9ab-d9d56e3e5d41</variableId>
+         <variableId>79bed560-dbb8-494f-975e-3110c1cc9945</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>08fd3bd0-18d8-44e2-9e8a-a2f71796198e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FullName</value>
+         <variableId>9100d4da-b4a3-4bcc-b5f1-520761683a18</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
